@@ -5,7 +5,7 @@ Pandas - Large Data manipulation
 Openpyxl - Integration with Excel Documents
 
 
-###Contirbutions
+### Contirbutions
 - Attirubte to Wiki on Stratified sampling
 
 
