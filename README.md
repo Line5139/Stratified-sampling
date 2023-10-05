@@ -1,3 +1,3 @@
 # Stratified-sampling
 
-## Aim to conduct stratified sampling using pandas and openpyxl
+## Aim to conduct stratified sampling using **Pandas** and **Openpyxl**
